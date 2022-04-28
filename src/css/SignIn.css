@@ -1,0 +1,13 @@
+.signinform {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  margin: 0 28vw;
+  width: 44vw;
+  height: 40%;
+}
+
+.signbtn {
+  width: 140px;
+  position: absolute;
+}

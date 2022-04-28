@@ -1,0 +1,21 @@
+.welcome {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+.title {
+  font-size: 48px;
+  margin: 10px;
+  font-weight: 400;
+}
+
+.desc {
+  font-size: 24px;
+  color: rgb(107, 107, 107);
+}
+.btn-sign {
+  margin: 6px;
+  background: none;
+}

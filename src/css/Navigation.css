@@ -1,0 +1,11 @@
+nav {
+  max-width: 100vw;
+  height: 45px;
+  max-height: 50px;
+  background: #3f51b5;
+  display: flex;
+  flex-direction: row;
+  padding: 15px;
+  justify-content: space-between;
+  align-items: center;
+}
